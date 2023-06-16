@@ -1,0 +1,10 @@
+1 -  instalar Teensyduino
+2 - isntalar libreria MTP_Teensy https://github.com/playfultechnology/audio-guestbook/issues/43#issue-1564935021
+3 - seleccionar en teensyduino el usb type Serial + Mtp Disk (experimental)  https://github.com/playfultechnology/audio-guestbook/issues/63
+4 - 
+
+Se encontraron varias bibliotecas para "SD.h"
+Usado: /private/var/folders/7k/xxd8mv_s6jx2y9fbnn4zsty80000gn/T/AppTranslocation/68183CBB-118B-48E7-B279-A35F166909DE/d/Teensyduino.app/Contents/Java/hardware/teensy/avr/libraries/SD
+ No usado: /private/var/folders/7k/xxd8mv_s6jx2y9fbnn4zsty80000gn/T/AppTranslocation/68183CBB-118B-48E7-B279-A35F166909DE/d/Teensyduino.app/Contents/Java/libraries/SD
+
+ ----> borrar Java/libraries/SD
